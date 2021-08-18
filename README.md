@@ -7,3 +7,7 @@
 - Além de listar os filmes existe a possibilidade de o usuário clicar no título para exibir a descrição e clicando novamente oculta a descrição.
 
 - Achei bacana a proposta desse exercício/mini projeto, pois foi o meu primeiro contato com API's.
+
+# Vídeo demonstrativo do projetinho
+
+https://youtu.be/DTEq5WALjeI
